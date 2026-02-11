@@ -1,5 +1,4 @@
-Chocolate Company Sales Dashboard – Power BI
-Overview
+Chocolate Company Sales Dashboard 
 
 This project is a Sales Analytics Dashboard built in Power BI for a chocolate company. The goal was to analyze sales performance, profitability, shipment trends, and regional contribution using interactive visuals.
 
